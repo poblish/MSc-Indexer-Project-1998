@@ -1,1 +1,7 @@
-public class BadHTMLFileException extends Exception{    public BadHTMLFileException()    {		super();    }}
+public class BadHTMLFileException extends Exception
+{
+    public BadHTMLFileException()
+    {
+        super();
+    }
+}
